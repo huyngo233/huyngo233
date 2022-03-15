@@ -73,16 +73,16 @@
   <a href="https://facebook.com/huyngo233" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="huyngo233-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/huyngo233Official" target="blank">
+  <a href="https://www.youtube.com/channel/UCyGokbb_8hrxIHyoaur84jw" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="huyngo233-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/huyngo233" target="blank">
+  <a href="https://www.linkedin.com/in/huy-quang-7a8864a7/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="huyngo233-linkedin" />
   </a>
-  <a href="https://instagram.com/huyngo233" target="blank">
+  <a href="https://www.instagram.com/quang_huy233/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="huyngo233-instagram" />
   </a>
-  <a href="mailto:huyngo233.official@gmail.com" target="top">
+  <a href="mailto:huyngo233@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="huyngo233-email" />
   </a>
 </div>
